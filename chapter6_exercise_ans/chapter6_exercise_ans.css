@@ -1,0 +1,28 @@
+*{
+	padding:0px;
+	margin:0px;
+	box-sizing:border-box;
+}
+
+
+.box{
+	height:200px;
+	background-size:cover;
+	background-position:center;
+}
+
+.box1{
+	background-image:url(img/box1.jpg);
+}
+
+.box2{
+	background-image:url(img/box2.jpg);
+}
+
+.box3{
+	background-image:url(img/box3.jpg);
+}
+
+.box4{
+	background-image:url(img/box4.jpg);
+}
