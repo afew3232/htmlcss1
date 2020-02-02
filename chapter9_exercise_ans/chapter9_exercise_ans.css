@@ -1,0 +1,52 @@
+*{
+	padding:0px;
+	margin:0px;
+	box-sizing:border-box;
+}
+
+
+
+main{
+	background-color:red;
+	width:960px;
+	margin:50px auto 50px auto;
+}
+.box{
+	width:300px;
+	padding:10px;
+	border:#eee solid 1px;
+	float:left;
+	margin-right:30px;
+	position:relative;
+}
+.box:nth-child(3){
+	margin-right:0px;
+}
+.image{
+	height:150px;
+	width:278px;
+	background-position:bottom;
+	background-size:cover;
+}
+
+.image1{
+	background-image:url(img/flow01.png);
+}
+.image2{
+	background-image:url(img/flow02.png);
+}
+.image3{
+	background-image:url(img/flow03.png);
+}
+.step{
+	position:absolute;
+	background-color:#ff9a4b;
+	padding:3px;
+	top:0px;
+	left:0px;
+	color:white;
+}
+
+.title{
+	margin:15px 0 5px 0;
+}
