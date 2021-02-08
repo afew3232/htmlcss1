@@ -1,7 +1,7 @@
 # htmlcss1
 test
 
-- [AAA](###A)
+- [AAA](#A)
 
 a
 a<br>
