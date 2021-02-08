@@ -6,7 +6,7 @@ test
 - [Repository](#repository)
 - [CriteriaAPI](#criteriaapi)
 - [StreamAPI](#streamapi)
-- [ラムダ式](#ラムダ式\(lambda式\))
+- [ラムダ式](#ラムダ式)
 
 a
 a<br>
@@ -44,7 +44,7 @@ a<br>
 ### Optionalクラス
 ### CriteriaAPI
 ### StreamAPI
-### ラムダ式(Lambda式)
+### ラムダ式
 ### Repository
 
 
