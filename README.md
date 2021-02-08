@@ -1,7 +1,7 @@
 # htmlcss1
 test
 
-- [改修前のブランチ変更](#改修前のブランチ変更)
+- [改修後にGitLabへpushする手順](#改修後にGitLabへpushする手順)
 
 a
 a<br>
@@ -32,7 +32,7 @@ a<br>
 a<br>
 a<br>
 
-### 改修前のブランチ変更
+### 改修後にGitLabへpushする手順
 
 
 
