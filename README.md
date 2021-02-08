@@ -1,11 +1,12 @@
 # htmlcss1
 test
 
-- [REST API](#rest-api)
-- [Lombok](#lombok)
-- [MapStruct](#mapstruct)
-- [DTO](#dto)
-- [Entity](#entity)
+- [Builderパターン](###Builderパターン)
+- [Optionalクラス](###Optionalクラス)
+- [Repository](###Repository)
+- [CriteriaAPI](###CriteriaAPI)
+- [StreamAPI](###StreamAPI)
+- [ラムダ式](###ラムダ式(Lambda式))
 
 a
 a<br>
@@ -39,7 +40,12 @@ a<br>
 ### REST API
 ### MapStruct
 ### DTO
-### Entity
+### Builderパターン
+### Optionalクラス
+### CriteriaAPI
+### StreamAPI
+### ラムダ式(Lambda式)
+
 
 
 
