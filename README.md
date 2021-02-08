@@ -4,8 +4,8 @@ test
 - [REST API](#rest-api)
 - [Lombok](#lombok)
 - [MapStruct](#mapstruct)
-- [DTO](###dto)
-- [Entity](###entity)
+- [DTO](#dto)
+- [Entity](#entity)
 
 a
 a<br>
