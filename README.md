@@ -38,4 +38,7 @@
 <br>
 <br>
 
+<br><br><br>
+
 ### 改修後にGitLabへpushする手順
+1. ①「ソース管理」のボタンを押下(Ctrl + Shift + G)<br>
